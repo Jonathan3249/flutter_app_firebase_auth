@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764259618812",
+    "project_id": "autenticacion-firebase-c5bcb",
+    "storage_bucket": "autenticacion-firebase-c5bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764259618812:android:6dd58edcee574112cd2c79",
+        "android_client_info": {
+          "package_name": "app.jona.flutter_app_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764259618812-07ml9eu02bsqqbavf7ouf6j1jb5ktq52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMwZNnmZhFdJGs77DL7fIN34tcaDaLeL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764259618812-07ml9eu02bsqqbavf7ouf6j1jb5ktq52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
